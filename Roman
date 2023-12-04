@@ -1,0 +1,13 @@
+public class RomanToInteger {
+    public static void main(String[] // Your input Roman numeral
+        String romanNumeral = "IX";
+
+        int integerValue = romanToInt(romanNumeral);
+        System.out.println("Integer value of " + romanNumeral + " is: " + integerValue);
+    }
+
+    public static int romanToInt(String s) {
+        
+        return 0; 
+    }
+}
